@@ -1,3 +1,4 @@
+#关于crypto类库的使用方式参见：https://www.dlitz.net/software/pycrypto/api/2.6/Crypto.Cipher.AES-module.html
 from Crypto.Cipher import AES
 from binascii import b2a_hex, a2b_hex
 
